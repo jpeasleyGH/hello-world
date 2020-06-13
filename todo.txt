@@ -1,3 +1,5 @@
 Things to do:
 https://love2d.org/#download
 https://love2d.org/wiki/Getting_Started
+http://guides.github.com/overviews/flow/
+http://github.com/explore
